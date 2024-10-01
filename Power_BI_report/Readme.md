@@ -27,7 +27,9 @@ Revenue by Product Series and Product: Useful for understanding the performance 
 Success Rate vs. Series Average: Marks products that outperform the average success rate of their series, identifying key performers.
 Sales Cycle Days vs. Series Average: Highlights products that are sold faster than others in the same series, helping to prioritize products with quicker turnover.
 Price Difference: Shows the variance between the suggested retail price and the actual sales price. This is important for understanding pricing strategies and market competitiveness.
-image
+
+![Product](https://github.com/user-attachments/assets/68286f08-9711-4157-af96-8e16aeb6add2)
+
 
 Market Reach
 This page provides insights into how the company is performing across different markets:
@@ -36,7 +38,9 @@ Accounts, Sectors, and Countries Overview: Displays the total number of clients,
 Success Rate and Revenue by Sector: Provides insights into which industries are the most profitable and where the company has the highest chance of winning deals.
 Sales Cycle Days by Sector: Reveals which sectors tend to have shorter or longer sales cycles, which is important for sales strategy.
 Account Details: Contains a link to a detailed page showing revenue by client, revenue distribution by client country, success rate, sales cycle days, and the top products purchased by each client. This helps identify key accounts and opportunities for upselling or cross-selling.
-image
+
+![Market_Research](https://github.com/user-attachments/assets/60d91088-119f-4e48-8e1c-25f56126dd12)
+
 
 Sales Teams Performance
 This page evaluates the performance of sales teams and agents:
@@ -46,4 +50,7 @@ Top 5 Best and 5 Worst Sales Agents: Shows the top-performing and underperformin
 Regional Office Performance: Breaks down sales performance by regional offices, helping identify which offices are excelling and which may need additional support.
 Office Managers and Sales Agents Details: Additional tabs provide more granular information about the performance of specific office managers and individual sales agents, useful for identifying leadership and agent-specific challenges or successes.
 image
+
+![Sales_team_performance](https://github.com/user-attachments/assets/c33f0711-3c21-406a-b965-4c73e4741bca)
+
 
